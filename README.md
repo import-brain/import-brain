@@ -8,11 +8,11 @@ I'm Eric, a current high school student from the United States. I love coding, w
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43684](https://github.com/angular/angular/issues/43684) in [angular/angular](https://github.com/angular/angular)
-2. 💪 Opened PR [#43699](https://github.com/freeCodeCamp/freeCodeCamp/pull/43699) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-3. 🗣 Commented on [#43682](https://github.com/freeCodeCamp/freeCodeCamp/issues/43682) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-4. 💪 Opened PR [#43684](https://github.com/angular/angular/pull/43684) in [angular/angular](https://github.com/angular/angular)
-5. 🗣 Commented on [#43682](https://github.com/freeCodeCamp/freeCodeCamp/issues/43682) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+1. 🗣 Commented on [#43699](https://github.com/freeCodeCamp/freeCodeCamp/issues/43699) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+2. 🗣 Commented on [#43684](https://github.com/angular/angular/issues/43684) in [angular/angular](https://github.com/angular/angular)
+3. 💪 Opened PR [#43699](https://github.com/freeCodeCamp/freeCodeCamp/pull/43699) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+4. 🗣 Commented on [#43682](https://github.com/freeCodeCamp/freeCodeCamp/issues/43682) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+5. 💪 Opened PR [#43684](https://github.com/angular/angular/pull/43684) in [angular/angular](https://github.com/angular/angular)
 <!--END_SECTION:activity-->
 
 ---
