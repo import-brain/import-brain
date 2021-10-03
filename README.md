@@ -1,5 +1,4 @@
 ## import-brain
-[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=import-brain&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 I'm Eric, a current high school student from the United States. I love coding, writing documentation, and maintaining open source projects!
