@@ -32,11 +32,7 @@ I'm Eric, a current high school student from the United States. I love coding, w
 
 ### what I spent my time on this week 🕒
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+<img src="https://github.com/import-brain/import-brain/blob/main/images/stat.svg" alt="import-brain WakaTime Activity"/>
 
 ---
 
