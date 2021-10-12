@@ -8,11 +8,11 @@ I'm Eric, a current high school student from the United States. I love coding, w
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/import-brain/blindr/pull/1) in [import-brain/blindr](https://github.com/import-brain/blindr)
-2. 💪 Opened PR [#1](https://github.com/import-brain/blindr/pull/1) in [import-brain/blindr](https://github.com/import-brain/blindr)
-3. ❗️ Opened issue [#4721](https://github.com/expressjs/express/issues/4721) in [expressjs/express](https://github.com/expressjs/express)
-4. 💪 Opened PR [#43732](https://github.com/freeCodeCamp/freeCodeCamp/pull/43732) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-5. 🎉 Merged PR [#12](https://github.com/import-brain/basic_calc/pull/12) in [import-brain/basic_calc](https://github.com/import-brain/basic_calc)
+1. 🗣 Commented on [#4721](https://github.com/expressjs/express/issues/4721) in [expressjs/express](https://github.com/expressjs/express)
+2. 🎉 Merged PR [#1](https://github.com/import-brain/blindr/pull/1) in [import-brain/blindr](https://github.com/import-brain/blindr)
+3. 💪 Opened PR [#1](https://github.com/import-brain/blindr/pull/1) in [import-brain/blindr](https://github.com/import-brain/blindr)
+4. ❗️ Opened issue [#4721](https://github.com/expressjs/express/issues/4721) in [expressjs/express](https://github.com/expressjs/express)
+5. 💪 Opened PR [#43732](https://github.com/freeCodeCamp/freeCodeCamp/pull/43732) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 <!--END_SECTION:activity-->
 
 ---
