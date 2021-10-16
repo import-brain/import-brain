@@ -8,11 +8,11 @@ I'm Eric, a current high school student from the United States. I love coding, w
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#948](https://github.com/marcizhu/marcizhu/issues/948) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-2. ❗️ Opened issue [#1169](https://github.com/rossjrw/rossjrw/issues/1169) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
-3. 🗣 Commented on [#4721](https://github.com/expressjs/express/issues/4721) in [expressjs/express](https://github.com/expressjs/express)
-4. 🎉 Merged PR [#1](https://github.com/import-brain/blindr/pull/1) in [import-brain/blindr](https://github.com/import-brain/blindr)
-5. 💪 Opened PR [#1](https://github.com/import-brain/blindr/pull/1) in [import-brain/blindr](https://github.com/import-brain/blindr)
+1. ❗️ Opened issue [#2](https://github.com/import-brain/import-brain/issues/2) in [import-brain/import-brain](https://github.com/import-brain/import-brain)
+2. ❗️ Opened issue [#1](https://github.com/import-brain/import-brain/issues/1) in [import-brain/import-brain](https://github.com/import-brain/import-brain)
+3. ❗️ Opened issue [#948](https://github.com/marcizhu/marcizhu/issues/948) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+4. ❗️ Opened issue [#1169](https://github.com/rossjrw/rossjrw/issues/1169) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
+5. 🗣 Commented on [#4721](https://github.com/expressjs/express/issues/4721) in [expressjs/express](https://github.com/expressjs/express)
 <!--END_SECTION:activity-->
 
 ---
