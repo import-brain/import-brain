@@ -1,44 +1,43 @@
-## import-brain
- 
-### Hi there 👋
-I'm Eric, a current high school student from the United States. I love coding, writing documentation, and maintaining open source projects!
+<h1 align="center">Hi 👋, I'm Eric</h1>
+<h3 align="center">A passionate high school student interested in full-stack development</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=import-brain&label=Profile%20views&color=0e75b6&style=flat" alt="import-brain" /> </p>
 
-### :zap: Recent Activity
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=import-brain" alt="import-brain" /></a> </p>
 
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/import-brain/import-brain/issues/2) in [import-brain/import-brain](https://github.com/import-brain/import-brain)
-2. ❗️ Opened issue [#1](https://github.com/import-brain/import-brain/issues/1) in [import-brain/import-brain](https://github.com/import-brain/import-brain)
-3. ❗️ Opened issue [#948](https://github.com/marcizhu/marcizhu/issues/948) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-4. ❗️ Opened issue [#1169](https://github.com/rossjrw/rossjrw/issues/1169) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
-5. 🗣 Commented on [#4721](https://github.com/expressjs/express/issues/4721) in [expressjs/express](https://github.com/expressjs/express)
-<!--END_SECTION:activity-->
+- 🔭 I’m currently working on [basic_calc](http://github.com/import-brain/basic_calc)
 
----
+- 🌱 I’m currently learning **React, Vue, Django, Java**
 
-### 👨‍💻 Languages/Tools
+- 👯 I’m looking to collaborate on **anything!**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+- 🤝 I’m looking for help with [Vue.js shopping cart mechanics](http://github.com/import-brain/blindr)
 
----
+- 👨‍💻 All of my projects are available at [github.com/import-brain](github.com/import-brain)
+
+- 💬 Ask me about **Python**
+
+- 📫 How to reach me **ericcheng9316@gmail.com**
+
+- ⚡ Fun fact **I play trombone!**
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=import-brain&show_icons=true&locale=en&layout=compact" alt="import-brain" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=import-brain&show_icons=true&locale=en" alt="import-brain" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=import-brain&" alt="import-brain" /></p>
+
+
 
 ### what I spent my time on this week 🕒
 
 <p align="center"> <img src="https://github.com/import-brain/import-brain/blob/main/images/stat.svg" alt="import-brain WakaTime Activity"/>
 
 ---
-
-### 📊 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=import-brain&count_private=true&show_icons=true&theme=algolia" alt="import-brain" />
 
 ### :chess_pawn: Community Chess Game
 
