@@ -36,11 +36,11 @@ I'm Eric, a current high school student from the United States. I love coding, w
 
 ---
 
-### My GitHub Stats
+### 📊 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=import-brain&count_private=true&show_icons=true&theme=algolia" alt="import-brain" />
 
-### Community Chess Game
+### :chess_pawn: Community Chess Game
 
 This is an open chess tournament where ANYONE can play. That's the fun part.  
 
