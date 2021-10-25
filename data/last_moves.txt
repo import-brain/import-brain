@@ -1,3 +1,4 @@
+g8f6: @import-brain
 f2f4: @Barabazs
 a7a5: @m-GDEV
 e2e4: @import-brain
