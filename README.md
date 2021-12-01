@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [basic_calc](http://github.com/import-brain/basic_calc)
 
-- 🌱 I’m currently learning **React, Vue, Django, Java**
+- 🌱 I’m currently learning **TypeScript, React, Django, Java**
 
 - 👯 I’m looking to collaborate on **anything!**
 
