@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=import-brain" alt="import-brain" /></a> </p>
 
-- 🔭 I’m currently working on [basic_calc](http://github.com/import-brain/basic_calc)
+- 🔭 I’m currently working on [elemenpy](http://github.com/import-brain/elemenpy)
 
 - 🌱 I’m currently learning **TypeScript, React, Django, Java**
 
