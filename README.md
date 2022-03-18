@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eric</h1>
 <h3 align="center">A passionate high school student interested in full-stack development</h3>
-<h4 align="center">Maintainer of Polygon</h4>
-<h4 align="center">Triager for [Express](http://github.com/expressjs/express) and [Faker](http://github.com/faker-js/faker)</h4>
+UI Maintainer of [Polygon](https://github.com/polygon-isecure/ui)
+Triager for [Express](http://github.com/expressjs/express) and [Faker](http://github.com/faker-js/faker)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=import-brain&label=Profile%20views&color=0e75b6&style=flat" alt="import-brain" /> </p>
 
