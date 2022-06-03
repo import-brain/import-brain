@@ -10,15 +10,13 @@
 
 - 🔭 I’m currently working on [Faker](http://github.com/faker-js/faker)
 
-- 🌱 I’m currently learning **TypeScript, React, Django, Java**
+- 🌱 I’m currently learning **TypeScript, React, Next.js**
 
 - 👯 I’m looking to collaborate on **anything!**
 
-- 🤝 I’m looking for help with [Vue.js shopping cart mechanics](http://github.com/import-brain/blindr)
-
 - 👨‍💻 All of my projects are available at [github.com/import-brain](github.com/import-brain)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **TypeScript**
 
 - 📫 How to reach me **ericcheng9316@gmail.com**
 
