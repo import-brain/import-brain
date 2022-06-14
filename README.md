@@ -6,9 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=import-brain&label=Profile%20views&color=0e75b6&style=flat" alt="import-brain" /> </p>
 
-<div align="center">
 ![Metrics](https://metrics.lecoq.io/import-brain?template=classic&isocalendar=1&languages=1&projects=1&activity=1&achievements=1&notable=1&lines=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=America%2FNew_York)
-</div>
 
 ### what I spent my time on this week 🕒
 
