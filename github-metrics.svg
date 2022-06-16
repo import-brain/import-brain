@@ -1372,6 +1372,22 @@
                                     </svg>
                                     <div class="content">
                                         Reviewed
+                                        <span class="issue">#875 test: migrate datatype to test snapshots</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by ST-DDT in <span class="repo">faker-js/faker</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Reviewed
                                         <span class="issue">#1076 chore(deps): switch to tsx</span>
                                     </div>
                                 </div>
@@ -1415,22 +1431,6 @@
                                     <div class="comment">
                                         <code class="language-suggestion">If the code you want to deprecate is a property, convert it to a [getter](https://www.typescriptlang.org/docs/handbook/2/classes.html#getters--setters) first. Now that you have a function, the first thing you want to do is call the internal [`deprecated` function](src/internal/deprecated.ts). Afterwards, add a `@deprecated` parameter to the end of the JSDoc with a human readable description message with a suitable replacement for the deprecated function. Lastly, add a `@see` parameter to the JSDoc with a link to the replacement in the faker library (if it exists). The syntax for the link is `faker.[module].[function]`.</code>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Reviewed
-                                        <span class="issue">#1067 docs: deprecation workflow</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by xDivisionByZerox in <span class="repo">faker-js/faker</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2144,7 +2144,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jun 2022, 17:17:38 (timezone America/New_York) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 16 Jun 2022, 18:25:03 (timezone America/New_York) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
