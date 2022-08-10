@@ -1954,7 +1954,7 @@ It's allowing the
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.63m out of 332m repositories</span>
+                                    <span class="gh">ranked 2.79m out of 332m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -1992,7 +1992,7 @@ It's allowing the
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.19m out of 332m repositories</span>
+                                    <span class="gh">ranked 2.31m out of 332m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -2150,7 +2150,7 @@ It's allowing the
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Aug 2022, 09:36:19 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 10 Aug 2022, 10:19:22 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
