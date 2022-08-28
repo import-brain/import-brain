@@ -2142,7 +2142,7 @@ You should be able to use ternary expressions to send different queries, query v
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Aug 2022, 10:19:18 (timezone America/New_York) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 28 Aug 2022, 11:21:59 (timezone America/New_York) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
