@@ -1,2 +1,3 @@
+d7d6: @nayabatir1
 e2e4: @import-brain
 Start game: @ieahleen

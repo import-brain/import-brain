@@ -6,5 +6,5 @@
 [Black "?"]
 [Result "*"]
 
-1. e4 { @import-brain } *
+1. e4 { @import-brain } 1... d6 { @nayabatir1 } *
 
